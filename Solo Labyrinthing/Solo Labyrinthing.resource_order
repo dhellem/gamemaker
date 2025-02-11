@@ -17,10 +17,12 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"Sprite_cristal","order":1,"path":"sprites/Sprite_cristal/Sprite_cristal.yy",},
+    {"name":"sprite_ground1","order":6,"path":"sprites/sprite_ground1/sprite_ground1.yy",},
     {"name":"Sprite_perso_front","order":4,"path":"sprites/Sprite_perso_front/Sprite_perso_front.yy",},
     {"name":"Sprite_portail","order":2,"path":"sprites/Sprite_portail/Sprite_portail.yy",},
-    {"name":"Sprite_tile_Sets","order":3,"path":"sprites/Sprite_tile_Sets/Sprite_tile_Sets.yy",},
+    {"name":"sprite_tile_set","order":5,"path":"sprites/sprite_tile_set/sprite_tile_set.yy",},
     {"name":"Sprite4","order":16,"path":"sprites/Sprite4/Sprite4.yy",},
   ],
 }
