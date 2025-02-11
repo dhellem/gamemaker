@@ -35,11 +35,13 @@
   "name":"Solo Labyrinthing",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Sprite_cristal","path":"sprites/Sprite_cristal/Sprite_cristal.yy",},},
+    {"id":{"name":"sprite_ground1","path":"sprites/sprite_ground1/sprite_ground1.yy",},},
     {"id":{"name":"Sprite_logo","path":"sprites/Sprite_logo/Sprite_logo.yy",},},
     {"id":{"name":"Sprite_perso_front","path":"sprites/Sprite_perso_front/Sprite_perso_front.yy",},},
     {"id":{"name":"Sprite_portail","path":"sprites/Sprite_portail/Sprite_portail.yy",},},
-    {"id":{"name":"Sprite_tile_Sets","path":"sprites/Sprite_tile_Sets/Sprite_tile_Sets.yy",},},
+    {"id":{"name":"sprite_tile_set","path":"sprites/sprite_tile_set/sprite_tile_set.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
@@ -47,6 +49,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
