@@ -22,7 +22,7 @@
     {"name":"Obj_logo","order":1,"path":"objects/Obj_logo/Obj_logo.yy",},
     {"name":"Obj_player","order":4,"path":"objects/Obj_player/Obj_player.yy",},
     {"name":"Obj_portail","order":3,"path":"objects/Obj_portail/Obj_portail.yy",},
-    {"name":"Object6","order":6,"path":"objects/Object6/Object6.yy",},
+    {"name":"Obj_wall","order":6,"path":"objects/Obj_wall/Obj_wall.yy",},
     {"name":"Sprite_cristal","order":1,"path":"sprites/Sprite_cristal/Sprite_cristal.yy",},
     {"name":"sprite_perso_front","order":6,"path":"sprites/sprite_perso_front/sprite_perso_front.yy",},
     {"name":"sprite_perso_walk_backward","order":9,"path":"sprites/sprite_perso_walk_backward/sprite_perso_walk_backward.yy",},

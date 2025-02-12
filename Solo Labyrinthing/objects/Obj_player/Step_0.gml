@@ -9,10 +9,10 @@ var move_vertical = key_down - key_up;
 horizontale_speed = move_horizontale * move_speed;
 vertical_speed = move_vertical * move_speed;
 
-if (!place_meeting(x + horizontale_speed, y, Object6)) {
+if (!place_meeting(x + horizontale_speed, y, Obj_wall)) {
     x += horizontale_speed;
 }
-if (!place_meeting(x, y + vertical_speed, Object6)) {
+if (!place_meeting(x, y + vertical_speed, Obj_wall)) {
     y += vertical_speed;
 }
 
@@ -34,6 +34,7 @@ if (key_left) {
 }
 if (key_right) {
     sprite_index = sprite_perso_walk_right;
+}
 
 if key_right||key_left||key_up||key_down{
 	Obj_game.is_moving = true;
