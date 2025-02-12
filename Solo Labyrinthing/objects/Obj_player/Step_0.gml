@@ -10,30 +10,36 @@ var move_vertical = key_down - key_up;
 vertical_speed = move_vertical * move_speed;
 
 if key_right||key_left{
-	x+=horizontale_speed
+	x+=horizontale_speed;
 }else if key_up||key_down {
 	y+= vertical_speed	
 }
 
 if horizontale_speed = 0 && vertical_speed = 0{
-	image_index = 0
-	image_speed = 0
+	image_index = 0;
+	image_speed = 0;
 }else{
-	image_speed = 2
+	image_speed = 2;
 }
 
 if key_down{
-	sprite_index = Sprite_perso_walk_front
+	sprite_index = Sprite_perso_walk_front;
 }
 
 if key_up{
-	sprite_index = sprite_perso_walk_backward
+	sprite_index = sprite_perso_walk_backward;
 }
 
 if key_left{
-	sprite_index = sprite_perso_walk_left
+	sprite_index = sprite_perso_walk_left;
 }
 
 if key_right{
-	sprite_index = sprite_perso_walk_right
+	sprite_index = sprite_perso_walk_right;
+}
+
+if key_right||key_left||key_up||key_down{
+	Obj_game.is_moving = true;
+}else{
+	Obj_game.is_moving = false;
 }
