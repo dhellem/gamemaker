@@ -3,8 +3,8 @@
   "%Name":"TileSet1",
   "autoTileSets":[
     {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[
-        34,46,44,20,16,0,35,0,18,33,0,0,48,0,0,73,32,0,0,72,45,62,63,59,30,0,0,74,17,77,76,87,75,104,19,58,21,
-        60,49,88,47,86,61,103,89,105,31,
+        72,86,84,56,52,0,73,0,54,71,0,0,88,0,0,117,70,148,154,116,85,104,105,101,68,149,150,118,53,121,120,133,
+        119,152,55,100,57,102,89,134,87,132,103,151,135,153,69,
       ],},
   ],
   "macroPageTiles":{
@@ -37,7 +37,7 @@
   "tilehsep":10,
   "tilevsep":10,
   "tileWidth":100,
-  "tilexoff":77,
-  "tileyoff":106,
+  "tilexoff":83,
+  "tileyoff":87,
   "tile_count":160,
 }

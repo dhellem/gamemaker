@@ -53,7 +53,6 @@
     {"id":{"name":"sprite_tile_set","path":"sprites/sprite_tile_set/sprite_tile_set.yy",},},
     {"id":{"name":"sprite_tileset_1","path":"sprites/sprite_tileset_1/sprite_tileset_1.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
-    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
