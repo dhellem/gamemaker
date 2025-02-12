@@ -39,9 +39,8 @@
     {"id":{"name":"Obj_logo","path":"objects/Obj_logo/Obj_logo.yy",},},
     {"id":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},},
     {"id":{"name":"Obj_portail","path":"objects/Obj_portail/Obj_portail.yy",},},
-    {"id":{"name":"Object6","path":"objects/Object6/Object6.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Obj_wall","path":"objects/Obj_wall/Obj_wall.yy",},},
+    {"id":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
     {"id":{"name":"Sprite_cristal","path":"sprites/Sprite_cristal/Sprite_cristal.yy",},},
     {"id":{"name":"sprite_ground1","path":"sprites/sprite_ground1/sprite_ground1.yy",},},
     {"id":{"name":"Sprite_logo","path":"sprites/Sprite_logo/Sprite_logo.yy",},},
@@ -59,8 +58,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Level1","path":"rooms/Level1/Level1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
