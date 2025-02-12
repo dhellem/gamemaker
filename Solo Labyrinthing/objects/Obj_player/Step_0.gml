@@ -25,3 +25,15 @@ if horizontale_speed = 0 && vertical_speed = 0{
 if key_down{
 	sprite_index = Sprite_perso_walk_front
 }
+
+if key_up{
+	sprite_index = sprite_perso_walk_backward
+}
+
+if key_left{
+	sprite_index = sprite_perso_walk_left
+}
+
+if key_right{
+	sprite_index = sprite_perso_walk_right
+}
