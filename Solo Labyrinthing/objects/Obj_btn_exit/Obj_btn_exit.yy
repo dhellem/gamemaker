@@ -1,15 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_logo",
-  "eventList":[],
+  "%Name":"Obj_btn_exit",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_logo",
+  "name":"Obj_btn_exit",
   "overriddenProperties":[],
   "parent":{
     "name":"menu",
     "path":"folders/Objects/menu.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_btn_parent",
+    "path":"objects/Obj_btn_parent/Obj_btn_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_logo",
-    "path":"sprites/sprite_logo/sprite_logo.yy",
+    "name":"sprite_menu_btn_exit",
+    "path":"sprites/sprite_menu_btn_exit/sprite_menu_btn_exit.yy",
   },
   "spriteMaskId":null,
   "visible":true,
