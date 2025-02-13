@@ -6,8 +6,8 @@
   "name":"Obj_logo",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"menu",
+    "path":"folders/Objects/menu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_logo",
-    "path":"sprites/Sprite_logo/Sprite_logo.yy",
+    "name":"sprite_logo",
+    "path":"sprites/sprite_logo/sprite_logo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Sprite12",
-    "path":"sprites/Sprite12/Sprite12.yy",
+    "name":"sprite_wall",
+    "path":"sprites/sprite_wall/sprite_wall.yy",
   },
   "spriteMaskId":null,
   "visible":false,
