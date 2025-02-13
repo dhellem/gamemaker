@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_key",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_door",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_key",
+  "name":"Obj_door",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"Sprite_key",
-    "path":"sprites/Sprite_key/Sprite_key.yy",
+    "name":"sprite_door",
+    "path":"sprites/sprite_door/sprite_door.yy",
   },
   "spriteMaskId":null,
   "visible":true,
