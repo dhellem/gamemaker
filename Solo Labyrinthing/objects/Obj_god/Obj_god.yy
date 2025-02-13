@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_door",
+  "%Name":"Obj_god",
   "eventList":[],
   "managed":true,
-  "name":"Obj_door",
+  "name":"Obj_god",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +29,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sprite_door",
-    "path":"sprites/sprite_door/sprite_door.yy",
+    "name":"sprite_god",
+    "path":"sprites/sprite_god/sprite_god.yy",
   },
   "spriteMaskId":null,
   "visible":true,

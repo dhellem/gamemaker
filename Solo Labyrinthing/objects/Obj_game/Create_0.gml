@@ -16,12 +16,12 @@ if room = Level2{
 	audio_play_sound(Snd_level2,1,true)
 }
 
-if room = rEnd2{
+if room = rEnd{
 	audio_stop_all()
 	audio_play_sound(Snd_end,1,true)
 }
 
-if room = rEnd1{
+if room = rEndDeath{
 	audio_stop_all()
 	audio_play_sound(Snd_death,1,false)
 	audio_play_sound(Snd_end,1,true)

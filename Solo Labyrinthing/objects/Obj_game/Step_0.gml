@@ -3,5 +3,5 @@ if (timer > 0 ){
         timer -= 1;
 	 }
 } else {
-    room_goto(rEnd1);
+    room_goto(rEndDeath);
 }

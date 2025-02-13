@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite_portail",
-    "path":"sprites/Sprite_portail/Sprite_portail.yy",
+    "name":"sprite_portail",
+    "path":"sprites/sprite_portail/sprite_portail.yy",
   },
   "spriteMaskId":null,
   "visible":true,
