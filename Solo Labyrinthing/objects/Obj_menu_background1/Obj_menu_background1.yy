@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_logo",
+  "%Name":"Obj_menu_background1",
   "eventList":[],
   "managed":true,
-  "name":"Obj_logo",
+  "name":"Obj_menu_background1",
   "overriddenProperties":[],
   "parent":{
     "name":"menu",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_logo",
-    "path":"sprites/sprite_logo/sprite_logo.yy",
+    "name":"sprite_menu1",
+    "path":"sprites/sprite_menu1/sprite_menu1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

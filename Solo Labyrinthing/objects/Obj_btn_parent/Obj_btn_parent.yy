@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_logo",
-  "eventList":[],
+  "%Name":"Obj_btn_parent",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_logo",
+  "name":"Obj_btn_parent",
   "overriddenProperties":[],
   "parent":{
     "name":"menu",
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sprite_logo",
-    "path":"sprites/sprite_logo/sprite_logo.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
