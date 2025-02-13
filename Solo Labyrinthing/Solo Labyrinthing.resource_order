@@ -46,6 +46,7 @@
     {"name":"rPostMenu1","order":2,"path":"rooms/rPostMenu1/rPostMenu1.yy",},
     {"name":"rPostMenu2","order":3,"path":"rooms/rPostMenu2/rPostMenu2.yy",},
     {"name":"rTitleScreen","order":1,"path":"rooms/rTitleScreen/rTitleScreen.yy",},
+    {"name":"Snd_death","order":4,"path":"sounds/Snd_death/Snd_death.yy",},
     {"name":"Snd_end","order":3,"path":"sounds/Snd_end/Snd_end.yy",},
     {"name":"Snd_level1","order":1,"path":"sounds/Snd_level1/Snd_level1.yy",},
     {"name":"Snd_level2","order":2,"path":"sounds/Snd_level2/Snd_level2.yy",},
