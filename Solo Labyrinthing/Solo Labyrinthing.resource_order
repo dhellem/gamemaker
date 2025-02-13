@@ -43,6 +43,7 @@
     {"name":"rPostMenu1","order":2,"path":"rooms/rPostMenu1/rPostMenu1.yy",},
     {"name":"rPostMenu2","order":3,"path":"rooms/rPostMenu2/rPostMenu2.yy",},
     {"name":"rTitleScreen","order":1,"path":"rooms/rTitleScreen/rTitleScreen.yy",},
+    {"name":"Level2","order":1,"path":"rooms/Level2/Level2.yy",},
     {"name":"Sprite_cristal","order":1,"path":"sprites/Sprite_cristal/Sprite_cristal.yy",},
     {"name":"sprite_end2","order":1,"path":"sprites/sprite_end2/sprite_end2.yy",},
     {"name":"sprite_logo","order":5,"path":"sprites/sprite_logo/sprite_logo.yy",},
