@@ -16,6 +16,11 @@ if (!place_meeting(x, y + vertical_speed, Obj_wall)) {
     y += vertical_speed;
 }
 
+if (place_meeting(x, y, Obj_door)) {
+    x = xprevious;
+    y = yprevious;
+}
+
 if (horizontale_speed == 0 && vertical_speed == 0) {
     image_index = 0;
     image_speed = 0;
