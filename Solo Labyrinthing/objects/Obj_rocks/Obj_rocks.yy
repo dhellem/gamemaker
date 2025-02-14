@@ -9,10 +9,7 @@
     "name":"deco",
     "path":"folders/Objects/deco.yy",
   },
-  "parentObjectId":{
-    "name":"Obj_wall",
-    "path":"objects/Obj_wall/Obj_wall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
