@@ -9,4 +9,3 @@ if (mp_grid_path(grid, path, x, y, player.x, player.y, false)) {
 } else {
     path_delete(path); // Si aucun chemin trouvé, ne rien faire
 }
-

@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_god",
-  "eventList":[],
+  "%Name":"Obj_trap_puzzle",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_god",
+  "name":"Obj_trap_puzzle",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"Obj_wall",
-    "path":"objects/Obj_wall/Obj_wall.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_god",
-    "path":"sprites/sprite_god/sprite_god.yy",
+    "name":"sprite_trap",
+    "path":"sprites/sprite_trap/sprite_trap.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
