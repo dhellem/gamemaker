@@ -54,6 +54,7 @@
     {"name":"Obj_portail","order":1,"path":"objects/Obj_portail/Obj_portail.yy",},
     {"name":"Obj_rocks","order":1,"path":"objects/Obj_rocks/Obj_rocks.yy",},
     {"name":"Obj_shroom","order":6,"path":"objects/Obj_shroom/Obj_shroom.yy",},
+    {"name":"Obj_trap_angel","order":19,"path":"objects/Obj_trap_angel/Obj_trap_angel.yy",},
     {"name":"Obj_trap_door","order":18,"path":"objects/Obj_trap_door/Obj_trap_door.yy",},
     {"name":"Obj_wall","order":4,"path":"objects/Obj_wall/Obj_wall.yy",},
     {"name":"Level2","order":1,"path":"rooms/Level2/Level2.yy",},
