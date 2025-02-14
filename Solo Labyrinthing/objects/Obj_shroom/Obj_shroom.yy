@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_cristal",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_shroom",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_cristal",
+  "name":"Obj_shroom",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"deco",
+    "path":"folders/Objects/deco.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_cristal",
-    "path":"sprites/sprite_cristal/sprite_cristal.yy",
+    "name":"sprite_shroom",
+    "path":"sprites/sprite_shroom/sprite_shroom.yy",
   },
   "spriteMaskId":null,
   "visible":true,
