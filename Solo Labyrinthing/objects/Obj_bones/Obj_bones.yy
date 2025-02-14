@@ -34,5 +34,5 @@
     "path":"sprites/sprite_bones/sprite_bones.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

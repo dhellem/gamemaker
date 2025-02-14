@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"sprite_door",
-    "path":"sprites/sprite_door/sprite_door.yy",
+    "name":"sprite_door_trap",
+    "path":"sprites/sprite_door_trap/sprite_door_trap.yy",
   },
   "spriteMaskId":null,
   "visible":true,
