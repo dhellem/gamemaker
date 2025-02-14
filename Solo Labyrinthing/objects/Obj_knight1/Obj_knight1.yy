@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_angel_2",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_knight1",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_angel_2",
+  "name":"Obj_knight1",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_wall",
+    "path":"objects/Obj_wall/Obj_wall.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sprite_angel",
-    "path":"sprites/sprite_angel/sprite_angel.yy",
+    "name":"sprite_knight1",
+    "path":"sprites/sprite_knight1/sprite_knight1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
