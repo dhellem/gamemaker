@@ -21,6 +21,12 @@ if room = rEnd{
 	audio_play_sound(Snd_end,1,true)
 }
 
+if room = rEnd3{
+	audio_stop_all()
+	audio_play_sound(Snd_end2,1,false)
+	audio_play_sound(Snd_end,1,true)
+}
+
 if room = rEndDeath{
 	audio_stop_all()
 	audio_play_sound(Snd_death,1,false)
