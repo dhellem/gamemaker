@@ -1,4 +1,4 @@
-timer = 20 * room_speed;
+timer = 15 * room_speed;
 is_moving = false;
 
 if room = rTitleScreen{
