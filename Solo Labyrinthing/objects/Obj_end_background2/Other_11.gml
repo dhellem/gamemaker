@@ -1,1 +1,1 @@
-if pressed room_goto(rTitleScreen)
+if pressed room_goto(rEnd2)
