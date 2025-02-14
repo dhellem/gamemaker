@@ -34,5 +34,5 @@
     "path":"sprites/sprite_trap/sprite_trap.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
