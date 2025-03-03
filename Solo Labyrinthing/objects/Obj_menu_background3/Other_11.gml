@@ -1,1 +1,1 @@
-if pressed room_goto(Level1);
+if pressed room_goto(rLevelSelection);
