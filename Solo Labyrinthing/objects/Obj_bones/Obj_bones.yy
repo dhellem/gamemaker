@@ -8,8 +8,8 @@
   "name":"Obj_bones",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"trap",
+    "path":"folders/Objects/trap.yy",
   },
   "parentObjectId":null,
   "persistent":false,

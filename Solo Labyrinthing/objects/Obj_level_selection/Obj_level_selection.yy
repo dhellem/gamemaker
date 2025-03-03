@@ -1,15 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_instant_death",
+  "%Name":"Obj_level_selection",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"Obj_player","path":"objects/Obj_player/Obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_instant_death",
+  "name":"Obj_level_selection",
   "overriddenProperties":[],
   "parent":{
-    "name":"trap",
-    "path":"folders/Objects/trap.yy",
+    "name":"level_selection",
+    "path":"folders/Objects/level_selection.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,11 +29,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"sprite_instant_death",
-    "path":"sprites/sprite_instant_death/sprite_instant_death.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }
