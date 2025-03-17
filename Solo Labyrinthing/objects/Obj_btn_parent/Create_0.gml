@@ -4,3 +4,5 @@ image_yscale = 0;
 
 state = b_state.create;
 pressed = false;
+
+sh_message = false;
