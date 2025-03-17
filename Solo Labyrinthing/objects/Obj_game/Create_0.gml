@@ -1,6 +1,15 @@
 timer = 15 * room_speed;
 is_moving = false;
 
+if (file_exists("sauvegarde.ini")) {
+    ini_open("sauvegarde.ini");
+    global.level1_finished = (ini_read_string("progression", "level1", "false") == "true");
+    ini_close();
+} else {
+    global.level1_finished = false;
+}
+
+
 if room = rTitleScreen{
 	audio_stop_all()
 	audio_play_sound(Snd_menu,1,true)
