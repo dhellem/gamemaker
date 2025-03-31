@@ -7,4 +7,5 @@ var _y = room_height /2;
 instance_create_layer(_x, _y - 200, "Pickups", Obj_btn_level1)
 instance_create_layer(_x, _y - 100, "Pickups", Obj_btn_level2)
 instance_create_layer(_x, _y, "Pickups", Obj_btn_cross)
+instance_create_layer(_x, _y + 100, "Pickups", Obj_btn_reset)
 instance_create_layer(_x, _y, "Pickups", Obj_level_selection_background)
